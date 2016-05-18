@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NCAABracketGenerator.iml" filepath="$PROJECT_DIR$/NCAABracketGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bracketmaker/bracketmaker.iml" filepath="$PROJECT_DIR$/bracketmaker/bracketmaker.iml" />
     </modules>
   </component>
 </project>

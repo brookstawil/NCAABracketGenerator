@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Random Bracket Generator</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main">MainActivity</string>
+    //Dummy Buttons
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+    <string name="button3">button3</string>
+    <string name="button4">button4</string>
+</resources>
